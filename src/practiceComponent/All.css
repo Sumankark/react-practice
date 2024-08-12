@@ -1,0 +1,19 @@
+.success{
+    background-color: rgb(2, 80, 2);
+    color: white;
+}
+
+.error{
+    background-color: red;
+    color: white;
+}
+
+.info{
+    background-color: blue;
+    color: white;
+}
+
+.warging{
+    background-color: orange;
+    color: white;
+}  
